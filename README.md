@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @quizhizhe
 - 👀 A Minecraft player
 - 🌱 I’m currently learning C++
-- 💞️ XFun Best in the world!!!
+- 💞️ Why I can't do it. NO!!!
 - 📫 O!!! This is different
 
 <!---
